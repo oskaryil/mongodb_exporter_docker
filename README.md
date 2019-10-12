@@ -1,4 +1,4 @@
-# mongodb_exporter_docker
+# mongodb_exporter Dockerfile
 Dockerfile for [mongodb_exporter](https://github.com/percona/mongodb_exporter)
 
 Steps to run docker container from Dockerfile:
